@@ -1,0 +1,12 @@
+ru\otus\spring\dao\QuestionDao.class
+ru\otus\spring\service\PersonService.class
+ru\otus\spring\service\QuestionService.class
+ru\otus\spring\Main.class
+ru\otus\spring\domain\Answer.class
+ru\otus\spring\service\QuestionServiceImpl.class
+ru\otus\spring\dao\QuestionDaoCsv.class
+ru\otus\spring\domain\Question.class
+ru\otus\spring\dao\PersonDaoSimple.class
+ru\otus\spring\domain\Person.class
+ru\otus\spring\dao\PersonDao.class
+ru\otus\spring\service\PersonServiceImpl.class
